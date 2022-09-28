@@ -1,0 +1,8 @@
+D:\Gruplar\DiscordOzel\2022.09.26\ConsoleRPG_0\ConsoleRPG_0\bin\Debug\ConsoleRPG_0.exe.config
+D:\Gruplar\DiscordOzel\2022.09.26\ConsoleRPG_0\ConsoleRPG_0\bin\Debug\ConsoleRPG_0.exe
+D:\Gruplar\DiscordOzel\2022.09.26\ConsoleRPG_0\ConsoleRPG_0\bin\Debug\ConsoleRPG_0.pdb
+D:\Gruplar\DiscordOzel\2022.09.26\ConsoleRPG_0\ConsoleRPG_0\obj\Debug\ConsoleRPG_0.csproj.AssemblyReference.cache
+D:\Gruplar\DiscordOzel\2022.09.26\ConsoleRPG_0\ConsoleRPG_0\obj\Debug\ConsoleRPG_0.csproj.SuggestedBindingRedirects.cache
+D:\Gruplar\DiscordOzel\2022.09.26\ConsoleRPG_0\ConsoleRPG_0\obj\Debug\ConsoleRPG_0.csproj.CoreCompileInputs.cache
+D:\Gruplar\DiscordOzel\2022.09.26\ConsoleRPG_0\ConsoleRPG_0\obj\Debug\ConsoleRPG_0.exe
+D:\Gruplar\DiscordOzel\2022.09.26\ConsoleRPG_0\ConsoleRPG_0\obj\Debug\ConsoleRPG_0.pdb
