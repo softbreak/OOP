@@ -1,12 +1,76 @@
-# OOP
-Sevgili arkadaşlar, biliyorsunuz ki C# Introduction derslerimiz bittikten sonra bir süre konu anlatımlarına ara vermiştik. Bunun en büyük sebebi çok önemli bir Yazılım Felsefesi olan OOP'in detaylarını size klasik bir yöntemle anlatmaktan ziyade yaratıcı bir şekilde anlatmayı tercih etmemizdi. Ne de olsa şu anda neredeyse her kaynakta OOP prensiplerine uygun bir E-Ticaret , Blog veya Arbitraj sitesi nasıl yapılır bulabilirdiniz...İronik olan şey şu ki bu felsefeyi aslında Yazılıma yeni başlayan birine anlatmak için aslında en uygun algoritma bir oyun algoritması olmasına rağmen gerek Türkiye'de gerekse yazılımı öğretmek icin kurulmus olan cogu siteye oyunlarla ilgili bir tanıtım / başlangıç yapılmamaktadır. Halbuki bu felsefeyi yeni ögrenen kişilerin bir bilgisayar oyununa entegre olmaları sağlandığı takdirde o kişi artık tüm projeleri bu mantıkta düşünebilecek seviyeye zaten gelecektir...Bunun eksikliğini fark edip sizlere oldukça farklı bir sistemle geri döndüğümüzü bildirmekten mutluluk duyarız. İcinizden hic bilgisayar oyunuyla ilgisi bulunmayanların hafif bir şekilde sitem ettiğini duyar gibi olsam da sizlere şunu söylemek isterim ki inanın hiç ama hiç önemli degil. Oyun dedigimiz yapı bir eglence ürünüdür. Ve her ne kadar oynamaktan zevk almadığınızı düsünseniz de mantığını anlamak hem çok kolaydır hem nesnel programlama yöntemine en kolay adapte olabileceğiniz bir sistemdir. Oyun oynamayı sevmiyor olsanız bile mantığını anlamanın hem cok farklı, hem cok kolay ve eglenceli olduğunu görecek hem de bir oyun söz konusu olduğunda Bilgisayar gibi düşünmenin tam olarak ne demek olduğunu , bilgisayarın davranış bicimini daha rahat hissedeceksiniz.
+# C# OOP — MMORPG Senaryosuyla Nesne Yönelimli Programlama
 
+Nesne yönelimli programlamayı e-ticaret veya blog projesiyle değil,  
+**bir MMORPG oyunuyla** öğreniyoruz.
 
-## Aramıza katılmak ve dersleri takip etmek için:
+Neden oyun? Çünkü OOP'i gerçekten anlamak için en uygun alan oyun mantığıdır.  
+Karakterler, özellikler, davranışlar, miras — bunların hepsi oyun dünyasında doğal olarak var.  
+Bir oyunu modellediğinde sınıf, nesne, kapsülleme kavramları soyut kalmaz. **Somutlaşır.**
 
-<a href="https://discord.gg/tkZBnuba8h" target="_blank"><img src="https://assets-global.website-files.com/6257adef93867e50d84d30e2/625eb604bb8605784489d361_Discord-Logo%2BWordmark-Color%20(1).png" width="300" height="90"></a>
+---
 
-<a href="https://www.youtube.com/channel/UCzdLcari9TIx-rtWzDNXvdQ" target="_blank"><img src="https://user-images.githubusercontent.com/28089953/192851963-91683526-507d-4429-a9d9-49f9c3e7e80c.png" width="300" height="90"></a>
+## İçerik
 
+Bu repo 4 ana OOP prensibini adım adım işler.  
+Her bölüm bir öncekinin üzerine inşa edilir.
 
+| # | Konu | Klasör |
+|---|---|---|
+| 1 | Class ve Constructor | `1-Class-And-Constructor/` |
+| 2 | Encapsulation (Kapsülleme) | `2-Encapsulation/` |
+| 3 | Inheritance (Kalıtım) | `3-Inheritance/` |
+| 4 | Polymorphism (Çok Biçimlilik) | `4-Polymorphism/` |
 
+---
+
+## Video Dersleri
+
+Kodun yanı sıra her konuyu anlatan video dersler aşağıda.
+
+### Ders 1 — Class ve Constructor: C# ile metin tabanlı oyun nasıl yazılır?
+[![Ders 1](https://img.youtube.com/vi/XPD5RgMl8hc/maxresdefault.jpg)](https://www.youtube.com/watch?v=XPD5RgMl8hc&list=PLDSvesNxEuJPY01yOb-wzLP7Ykv4v5nTI)
+
+---
+
+### Ders 2 — Encapsulation Nedir? Nasıl Uygulanır?
+[![Ders 2](https://img.youtube.com/vi/QHnHyRIo9Jo/maxresdefault.jpg)](https://www.youtube.com/watch?v=QHnHyRIo9Jo&list=PLDSvesNxEuJPY01yOb-wzLP7Ykv4v5nTI)
+
+---
+
+### Ders 3 — Kalıtım (Inheritance) Nedir?
+[![Ders 3](https://img.youtube.com/vi/CvROrQCUY6o/maxresdefault.jpg)](https://www.youtube.com/watch?v=CvROrQCUY6o&list=PLDSvesNxEuJPY01yOb-wzLP7Ykv4v5nTI)
+
+---
+
+### Ders 4 — Polymorphism Nedir?
+[![Ders 4](https://img.youtube.com/vi/pKY9AOLTnh8/maxresdefault.jpg)](https://www.youtube.com/watch?v=pKY9AOLTnh8&list=PLDSvesNxEuJPY01yOb-wzLP7Ykv4v5nTI)
+
+---
+
+### Ders 5 — Abstraction Nedir?
+[![Ders 5](https://img.youtube.com/vi/IBeqwKvHzxU/maxresdefault.jpg)](https://www.youtube.com/watch?v=IBeqwKvHzxU&list=PLDSvesNxEuJPY01yOb-wzLP7Ykv4v5nTI)
+
+---
+
+### Ders 6 — Ek İşlemler: Saldırı ve Eşya Mekanikleri
+[![Ders 6](https://img.youtube.com/vi/_S8NmIFvkTw/maxresdefault.jpg)](https://www.youtube.com/watch?v=_S8NmIFvkTw&list=PLDSvesNxEuJPY01yOb-wzLP7Ykv4v5nTI)
+
+---
+
+### Ders 7 — Test İşlemleri
+[![Ders 7](https://img.youtube.com/vi/nbqg4I5ieqo/maxresdefault.jpg)](https://www.youtube.com/watch?v=nbqg4I5ieqo&list=PLDSvesNxEuJPY01yOb-wzLP7Ykv4v5nTI)
+
+---
+
+## Tüm Seriyi İzle
+
+[![OOP Serisi](https://img.youtube.com/vi/XPD5RgMl8hc/maxresdefault.jpg)](https://www.youtube.com/playlist?list=PLDSvesNxEuJPY01yOb-wzLP7Ykv4v5nTI)
+
+🎬 [Oynatma listesini aç →](https://www.youtube.com/playlist?list=PLDSvesNxEuJPY01yOb-wzLP7Ykv4v5nTI)
+
+---
+
+## Softbreak
+
+📺 [youtube.com/@softbreak](https://youtube.com/@softbreak)  
+🌐 [softbreak.net](https://softbreak.net)
