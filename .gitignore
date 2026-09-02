@@ -1,0 +1,13 @@
+# Visual Studio
+.vs/
+*.user
+*.suo
+
+# Build outputs
+bin/
+obj/
+
+# Compiled binaries and debug symbols
+*.exe
+*.dll
+*.pdb
